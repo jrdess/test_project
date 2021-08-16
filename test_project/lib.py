@@ -4,5 +4,5 @@ def try_me():
     if response.lower() == 'y':
         print('Cool !')
     elif response.lower() == 'n':
-        print('Go fuck yourself then !')
+        print('Ok, go fuck yourself then !')
     print("hum, I am sorry, I don't speak your language")
